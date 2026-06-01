@@ -39,3 +39,5 @@ e somente aí é que extrai-se o texto
 print(bs.find('img',
               {'src':'../img/gifts/img1.jpg'}).parent.previous_sibling.get_text())
 
+.u32GpixY857hwn
+
